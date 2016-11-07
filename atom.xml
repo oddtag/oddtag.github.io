@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>The odd tag</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2016-11-06T12:03:48-05:00</updated>
+ <id>http://0.0.0.0:4000</id>
+ <author>
+   <name>oddtag</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Updates</title>
+   <link href="http://0.0.0.0:4000/2016/11/04/updates/"/>
+   <updated>2016-11-04T00:00:00-04:00</updated>
+   <id>http://0.0.0.0:4000/2016/11/04/updates</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/oddtag&quot; data-chrome=&quot;noheader nofooter noborders&quot; data-tweet-limit=&quot;20&quot; data-widget-id=&quot;658284895102484480&quot;&gt;&lt;i class=&quot;fa fa-cog fa-spin&quot;&gt;&lt;/i&gt; loading updates... please wait&lt;/a&gt;
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&quot;://platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.oddtag.com&quot;&gt;The odd tag&lt;/a&gt; - Venice area, Italia&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;oddtag [at] oddtag.com&lt;br&gt;
+&lt;a href=&quot;https://www.twitter.com/oddtag&quot;&gt;www.twitter.com/oddtag&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;oddtag.com 2016&lt;br&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
